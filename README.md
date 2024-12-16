@@ -1,4 +1,4 @@
-# Color Generator Utility
+# Dynamic Color Generator
 
 ## Overview
 
