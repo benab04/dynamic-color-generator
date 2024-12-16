@@ -3,6 +3,17 @@
   "version": "1.0.0",
   "description": "A simple utility that generates dynamic color schemes, either randomly or based on a base RGB color. It automatically sets CSS variables, allowing your web application to have a fresh, unique look each time it loads, with either custom or default color schemes.",
   "main": "index.js",
+  "keywords": [
+    "color",
+    "color-generator",
+    "css-variables",
+    "color-palette",
+    "random-colors",
+    "color-scheme",
+    "web-design",
+    "styling",
+    "theme"
+  ],
   "directories": {
     "test": "test"
   },
@@ -10,5 +21,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "benab04",
-  "license": "ISC"
+  "license": "MIT"
 }
