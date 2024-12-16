@@ -1,6 +1,6 @@
 {
   "name": "dynamic-color-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple utility that generates dynamic color schemes, either randomly or based on a base RGB color. It automatically sets CSS variables, allowing your web application to have a fresh, unique look each time it loads, with either custom or default color schemes.",
   "main": "index.js",
   "keywords": [
@@ -19,6 +19,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benab04/dynamic-color-generator"
   },
   "author": "benab04",
   "license": "MIT"
